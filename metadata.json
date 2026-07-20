@@ -1,0 +1,6 @@
+{
+  "name": "AXIONIX Captive Portal & Ordering System",
+  "description": "AXIONIX WiFi Captive Portal and restaurant ordering site with staff dashboard, table assignment, live order tracking, and ESP32 C++ code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
